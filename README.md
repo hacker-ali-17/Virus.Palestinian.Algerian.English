@@ -2,7 +2,7 @@
 
 Install method for a tool
 
-git clone https://github.com/hacker-ali-17/Virus.Palestinian.Algerian.git
+git clone https://github.com/hacker-ali-17/Virus.Palestinian.Algerian.English.git
 
 Entry command to a tool
 
