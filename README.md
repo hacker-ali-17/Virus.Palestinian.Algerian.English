@@ -6,7 +6,7 @@ git clone https://github.com/hacker-ali-17/Virus.Palestinian.Algerian.git
 
 Entry command to a tool
 
-cd Virus.Palestinian.Algerian.Arabic
+cd Virus.Palestinian.Algerian.English
 
 Operation of the tool
 
