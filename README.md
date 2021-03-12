@@ -1,4 +1,4 @@
-﻿#  Virus Palestinian Algerian
+﻿#  Virus Palestinian Algerian English
 
 Install method for a tool
 
