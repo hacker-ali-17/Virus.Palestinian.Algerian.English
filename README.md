@@ -12,3 +12,7 @@ Operation of the tool
 
 sh Algerian.sh
 
+## Contact
+
+* facebook: [أكادمية تعلم البرمجة حتي الاحتراف
+](https://www.facebook.com/Alloush.
