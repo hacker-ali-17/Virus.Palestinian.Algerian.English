@@ -15,4 +15,4 @@ sh Algerian.sh
 ## Contact
 
 * facebook: [أكادمية تعلم البرمجة حتي الاحتراف
-](https://www.facebook.com/Alloush.
+](https://www.facebook.com/Alloush.)
