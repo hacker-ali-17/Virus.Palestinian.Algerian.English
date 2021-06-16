@@ -13,10 +13,6 @@ Operation of the tool
 sh Algerian.sh
 
 
-## PoC
-
-![](PoC.jpg)
-
 ## Contact
 
 * facebook: [أكادمية تعلم البرمجة حتي الاحتراف
